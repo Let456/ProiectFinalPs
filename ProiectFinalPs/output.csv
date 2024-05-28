@@ -1,0 +1,4 @@
+ParfumMagazinId,Disponibilitate,SticlaParfumId,MagazinId, Volum, Pret, Nume, Producator
+5,10,1,1,100,100,Eau de Parfum,Chanel
+6,15,2,1,50,100,Fahrenheit,Dior
+16,5,12,1,330,330,Dior,Dior

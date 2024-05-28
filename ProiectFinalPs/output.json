@@ -1,0 +1,32 @@
+[
+  {
+    "ParfumMagazinId": 5,
+    "Disponibilitate": 10,
+    "Volum": 100,
+    "Pret": 100,
+    "Nume": "Eau de Parfum",
+    "MagazinId": 1,
+    "Producator": "Chanel",
+    "SticlaParfumId": 1
+  },
+  {
+    "ParfumMagazinId": 6,
+    "Disponibilitate": 15,
+    "Volum": 50,
+    "Pret": 100,
+    "Nume": "Fahrenheit",
+    "MagazinId": 1,
+    "Producator": "Dior",
+    "SticlaParfumId": 2
+  },
+  {
+    "ParfumMagazinId": 16,
+    "Disponibilitate": 5,
+    "Volum": 330,
+    "Pret": 330,
+    "Nume": "Dior",
+    "MagazinId": 1,
+    "Producator": "Dior",
+    "SticlaParfumId": 12
+  }
+]
