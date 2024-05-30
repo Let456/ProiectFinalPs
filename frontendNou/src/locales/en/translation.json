@@ -1,0 +1,14 @@
+{
+  "Nume": "Name",
+  "Producator": "Producer",
+  "Disponibilitate": "Availability",
+  "Volum": "Volume",
+  "Pret": "Price",
+  "Insert": "Insert",
+  "Update": "Update",
+  "Delete": "Delete",
+  "SaveAsCsv": "Save as CSV",
+  "SaveAsDoc": "Save as DOC",
+  "SaveAsJson": "Save as JSON",
+  "SaveAsXml": "Save as XML"
+}

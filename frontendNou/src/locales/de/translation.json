@@ -1,0 +1,14 @@
+{
+  "Nume": "Name",
+  "Producator": "Hersteller",
+  "Disponibilitate": "Verfügbarkeit",
+  "Volum": "Volumen",
+  "Pret": "Preis",
+  "Insert": "Einfügen",
+  "Update": "Aktualisieren",
+  "Delete": "Löschen",
+  "SaveAsCsv": "Als CSV speichern",
+  "SaveAsDoc": "Als DOC speichern",
+  "SaveAsJson": "Als JSON speichern",
+  "SaveAsXml": "Als XML speichern"
+}

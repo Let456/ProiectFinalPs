@@ -1,0 +1,14 @@
+{
+  "Nume": "Nume",
+  "Producator": "Producător",
+  "Disponibilitate": "Disponibilitate",
+  "Volum": "Volum",
+  "Pret": "Preț",
+  "Insert": "Adăugare",
+  "Update": "Actualizare",
+  "Delete": "Ștergere",
+  "SaveAsCsv": "Salvare ca CSV",
+  "SaveAsDoc": "Salvare ca DOC",
+  "SaveAsJson": "Salvare ca JSON",
+  "SaveAsXml": "Salvare ca XML"
+}
